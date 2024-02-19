@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 开卷，有益
-      link: /markdown-examples
+      link: /homepage
     - theme: alt
       text: 学习？学个屁！
-      link: /api-examples
+      link: /why_and_why
 
 # features:
 #   - title: Feature A
