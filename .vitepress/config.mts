@@ -13,10 +13,14 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '根',
+        link: '/homepage'
+      },
+      {
+        text: '编程',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '正则表达式', link: '/coding/regular_expression.md' },
+          { text: 'solidity', link: '/coding/solidity.md' },
         ]
       }
     ],
