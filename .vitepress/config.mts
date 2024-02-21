@@ -19,8 +19,10 @@ export default defineConfig({
       {
         text: '编程',
         items: [
+          { text: 'Rust', link: '/coding/rust.md' },
+          { text: 'Solidity', link: '/coding/solidity.md' },
+          { text: '面试', link: '/coding/interview.md' },
           { text: '正则表达式', link: '/coding/regular_expression.md' },
-          { text: 'solidity', link: '/coding/solidity.md' },
         ]
       }
     ],
