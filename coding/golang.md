@@ -2,6 +2,12 @@
 
 ## 学习资料
 
+### Go 语言圣经（中文版）
+
+[链接](https://golang-china.github.io/gopl-zh/)
+
+正如 Rust Course, 这套书籍也是社区撰写的开源书籍，适合入门或进阶。
+
 ### Learn Go with tests
 
 [链接](https://studygolang.gitbook.io/learn-go-with-tests)
