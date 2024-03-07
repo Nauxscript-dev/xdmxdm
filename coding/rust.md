@@ -2,7 +2,7 @@
 
 ## 学习资料
 
-### Rust语言圣经(Rust Course)
+### Rust 语言圣经（Rust Course）（中文版）
 
 [链接](https://course.rs/)
 
