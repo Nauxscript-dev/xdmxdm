@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: '编程',
         items: [
+          { text: 'Golang', link: '/coding/golang.md' },
           { text: 'Rust', link: '/coding/rust.md' },
           {
             text: 'Web3',
