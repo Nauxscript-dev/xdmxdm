@@ -38,9 +38,10 @@ export default defineConfig({
           {
             text: "JavaScript",
             items: [
-              { text: "Eloquent JavaScript 4th edition", link: '/books/javascript/eloquent_javascript_4th.md' }
+              { text: "Eloquent JavaScript 4th edition", link: '/books/javascript/eloquent_javascript_4th.md' },
+              { text: "Patterns", link: "/books/javascript/patterns.md" }
             ]
-          }
+          },
         ]
       }
     ],
