@@ -25,11 +25,22 @@ export default defineConfig({
             text: 'Web3',
             items: [
               { text: '综合', link: '/coding/web3/all.md' },
-              { text: 'Solidity', link: '/coding/web3/solidity.md' }, 
+              { text: 'Solidity', link: '/coding/web3/solidity.md' },
             ]
           },
           { text: '面试', link: '/coding/interview.md' },
           { text: '正则表达式', link: '/coding/regular_expression.md' },
+        ]
+      },
+      {
+        text: '书籍',
+        items: [
+          {
+            text: "JavaScript",
+            items: [
+              { text: "Eloquent JavaScript 4th edition", link: '/books/javascript/eloquent_javascript_4th.md' }
+            ]
+          }
         ]
       }
     ],
