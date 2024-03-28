@@ -17,9 +17,11 @@ export default defineConfig({
         link: '/homepage'
       },
       {
-        text: '编程',
+        text: '开发者',
         items: [
+          { text: 'Docker', link: '/coding/docker.md' },
           { text: 'Golang', link: '/coding/golang.md' },
+          { text: 'Javascript', link: '/coding/javascript.md' },
           { text: 'Rust', link: '/coding/rust.md' },
           {
             text: 'Web3',
@@ -29,23 +31,11 @@ export default defineConfig({
             ]
           },
           { text: '面试', link: '/coding/interview.md' },
+          { text: '设计模式', link: '/coding/patterns.md' },
           { text: '正则表达式', link: '/coding/regular_expression.md' },
         ]
       },
-      {
-        text: '书籍',
-        items: [
-          {
-            text: "JavaScript",
-            items: [
-              { text: "Eloquent JavaScript 4th edition", link: '/books/javascript/eloquent_javascript_4th.md' },
-              { text: "Patterns", link: "/books/javascript/patterns.md" }
-            ]
-          },
-        ]
-      }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Nauxscript-dev/xdmxdm' }
     ]
