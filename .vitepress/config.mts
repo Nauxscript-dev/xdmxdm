@@ -31,6 +31,7 @@ export default defineConfig({
             ]
           },
           { text: '面试', link: '/coding/interview.md' },
+          { text: '算法', link: '/coding/algorithm.md' },
           { text: '设计模式', link: '/coding/patterns.md' },
           { text: '正则表达式', link: '/coding/regular_expression.md' },
         ]
